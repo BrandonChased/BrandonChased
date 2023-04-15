@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning Cyber Security Fundamentals****
 
-- 💬 Ask me about **React, Flask, Django and Spring-Boot**
+- 💬 Ask me about **React, ASP.NET, Django and Spring-Boot**
 
 - 📫 How to reach me **BrandonChaseDeBenedictis@gmail.com**
 
