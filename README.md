@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **React, ASP.NET, Django and Spring-Boot**
 
-- 📫 How to reach me **BrandonChaseDeBenedictis@gmail.com**
-
 - ⚡ Fun fact **I was an Airplane Mechanic**
 
 <h3 align="left">Connect with me:</h3>
